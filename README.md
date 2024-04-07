@@ -25,4 +25,5 @@
   - [Google Colab: Exercises with dispel4py](./Intro_Tutorial_dispel4py_2_0.ipynb)
   - [Google Colab: Part II - Real Use Cases (selection)](./Testing_dispel4py_2_0.ipynb)
   	- [More 'Complex' Scientific Use Cases](https://github.com/StreamingFlow/d4py_workflows)
+  - [dispel4py latest research works](./Day2-Module4.pdf) 
 
