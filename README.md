@@ -18,7 +18,6 @@
 - [Module 3: Introduction to dispel4py](./Day2-Module3.pdf)
     - [dispel4py - Basic Concepts](./Day2-Module3a.pdf)
     - [dispel4py - Advanced Concepts](./Day2-Module3b.pdf)
-    - [Installing dispel4py](https://github.com/StreamingFlow/d4py)
     - [Google Colab: Part I - Simple Examples](./Testing_dispel4py_2_0.ipynb)
 
 - Module 4: Hands-on Exercises
@@ -27,3 +26,6 @@
   	- [More 'Complex' Scientific Use Cases](https://github.com/StreamingFlow/d4py_workflows)
   - [dispel4py latest research works](./Day2-Module4.pdf) 
 
+
+**Note**: We will use the latest version of dispel4py, which is stored in the [StreamingFlow/d4py](https://github.com/StreamingFlow/d4py) repository.
+This version of dispel4py uses **python3.10**.
