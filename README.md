@@ -22,6 +22,6 @@
     - [Google Colab: Testing dispel4py](./Testing_dispel4py_2_0.ipynb)
 
 - Module 4: Hands-on Exercises
-  - Exercises with dispel4py
+  - [Exercises with dispel4py](./Intro_Tutorial_dispel4py_2_0.ipynb)
   - [Real-Use cases with dispel4py](https://github.com/StreamingFlow/d4py_workflows)
 
