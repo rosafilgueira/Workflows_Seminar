@@ -15,7 +15,7 @@
 
 ## Day 2: Exploring dispel4py and its applications (4 Hours)
 
-- Module 3: Introduction to dispel4py
+- [Module 3: Introduction to dispel4py](./Day2-Module3.pdf)
     - [dispel4py - Basic Concepts](./Day2-Module3a.pdf)
     - [dispel4py - Advanced Concepts](./Day2-Module3b.pdf)
     - [Installing dispel4py](https://github.com/StreamingFlow/d4py)
