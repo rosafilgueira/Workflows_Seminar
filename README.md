@@ -9,7 +9,7 @@
   - [Module 1.b](./Day1-Module1.b.pdf)
     - Beyond Basic Concepts
     - Research Directions
-- [Module 2: Creating Workflows with CWL)(./Day1-Module2.pdf)
+- [Module 2: Creating Workflows with CWL](./Day1-Module2.pdf)
   - Introduction to CWL
   - Installing CWL & Exercise
 
