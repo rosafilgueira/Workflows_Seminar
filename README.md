@@ -11,7 +11,7 @@
     - Research Directions
 - [Module 2: Creating Workflows with CWL](./Day1-Module2.pdf)
   - Introduction to CWL
-  - [Google Colab: Installing CWL & Exercise](./cwl_tutorial_2024_pynb.ipynb)
+  - [Google Colab: Installing CWL & Exercise](./cwl_tutorial_2024.ipynb)
 
 ## Day 2: Exploring dispel4py and its applications (4 Hours)
 
